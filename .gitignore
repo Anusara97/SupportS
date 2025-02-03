@@ -4,3 +4,9 @@ Test.class
 #ignore all .docx files
 *.docx
 *.tmp
+
+#ignore all .env files
+*.env
+
+#ignore the content in the /bin directory
+bin/
