@@ -8,5 +8,6 @@ public class Test {
 		int num1, num2;
 
 		num2 = 20;
+		num1 = 10;
 	}
 }
