@@ -7,7 +7,9 @@ public class Test {
 
 		int num1, num2;
 
-		num2 = 20;
 		num1 = 10;
+		num2 = 20;
+
+		System.out.println("Value of number 1 is: " +num1);		
 	}
 }
