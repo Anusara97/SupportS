@@ -4,5 +4,7 @@ public class Test {
 
 		String Name ="Anusara";
 		System.out.println(Name + " Hello World.");
+
+		int num1, num2;
 	}
 }
