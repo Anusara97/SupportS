@@ -6,5 +6,7 @@ public class Test {
 		System.out.println(Name + " Hello World.");
 
 		int num1, num2;
+
+		num1 = 10;
 	}
 }
