@@ -1,2 +1,6 @@
 #Ignore Test.class file
 Test.class
+
+#ignore all .docx files
+*.docx
+*.tmp
