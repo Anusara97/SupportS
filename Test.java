@@ -13,5 +13,7 @@ public class Test {
 		System.out.println("Value of number 1 is: " + num1);
 
 		System.out.println("Number 2 is " + num2);
+
+		String Address;
 	}
 }
