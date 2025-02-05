@@ -15,6 +15,7 @@ public class Test {
 		System.out.println("Number 2 is " + num2);
 
 		String Address = "Colombo";
+		int Age = 20;
 		System.out.println("Address is " + Address);
 	}
 }
