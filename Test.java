@@ -16,5 +16,6 @@ public class Test {
 
 		String Address;
 		Address = "Matara.";
+		System.out.println("Address is: " + Address);
 	}
 }
