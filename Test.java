@@ -14,8 +14,6 @@ public class Test {
 
 		System.out.println("Number 2 is " + num2);
 
-		String Address;
-		Address = "Matara.";
-		System.out.println("Address is: " + Address);
+		String Address = "Colombo";
 	}
 }
